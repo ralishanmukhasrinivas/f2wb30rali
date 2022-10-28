@@ -13,8 +13,16 @@
     "morgan": "^1.10.0",
     "pug": "^3.0.2"
   },
+  "description": "[render server](https://f2wb30rali.onrender.com)",
   "main": "app.js",
-  "author": "rali shanmukha srinivas",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralishanmukhasrinivas/f2wb30rali.git"
+  },
+  "author": "",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/ralishanmukhasrinivas/f2wb30rali/issues"
+  },
+  "homepage": "https://github.com/ralishanmukhasrinivas/f2wb30rali#readme"
 }
